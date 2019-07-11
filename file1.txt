@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+void testf();
+
+int student_count = 5;
+
+//#define SHOW_VALUE(var) printf("##var## = %d\n",## var##)
+#define SHOW_VALUE(var) printf("#var = %d\n", (var))
+
+int main()
+{
+   int num = 200;
+   
+   SHOW_VALUE(num);
+   
+   return 0;
+}
+
+
+
