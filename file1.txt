@@ -1,20 +1,8 @@
-#include <stdio.h>
+This is just a sample text file.
 
-void testf();
+The contents DO NOT matter in this case. 
 
-int student_count = 5;
-
-//#define SHOW_VALUE(var) printf("##var## = %d\n",## var##)
-#define SHOW_VALUE(var) printf("#var = %d\n", (var))
-
-int main()
-{
-   int num = 200;
-   
-   SHOW_VALUE(num);
-   
-   return 0;
-}
+Please focus on the permissions part.
 
 
 
