@@ -1,0 +1,4 @@
+This is a sample file that you will use to learn about file permissions.
+The contents of this file are irrelevant.
+
+
